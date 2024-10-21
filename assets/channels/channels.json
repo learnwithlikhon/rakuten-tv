@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "Rakuten Family Kids 1",
+    "url": "https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8",
+    "logo": "",
+    "category": "kids"
+  },
+  {
+    "id": 2,
+    "name": "Rakuten Family Kids 2",
+    "url": "https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8",
+    "logo": "",
+    "category": "kids"
+  },
+  {
+    "id": 3,
+    "name": "Rakuten Family Kids 3",
+    "url": "https://rakuten-family-3-eu.rakuten.wurl.tv/playlist.m3u8",
+    "logo": "",
+    "category": "kids"
+  },
+  {
+    "id": 5,
+    "name": "Rakuten Family Kids 7",
+    "url": "https://rakuten-family-7-eu.rakuten.wurl.tv/playlist.m3u8",
+    "logo": "",
+    "category": "kids"
+  },
+  {
+    "id": 6,
+    "name": "Rakuten Family Kids 8",
+    "url": "https://rakuten-family-8-eu.rakuten.wurl.tv/playlist.m3u8",
+    "logo": "",
+    "category": "kids"
+  },
+  {
+    "id": 7,
+    "name": "Tsports",
+    "url": "https://video-weaver.arn03.hls.live-video.net/v1/playlist/CqgFP7mp5Dr7FlNEh6bcwAllx7q5QpOXPIdLS5kcRhezpV17Npsua7IoT8UDoguJZMasIxuesWX1UtQrzQt8N18k-KoZUJ8zVEGYKZZNxzIWPB2PpyrZX9-Fv9XZTW3XDI9S3L8Ml5jOQgg9ZtUKd3CveD4R5nCR6VeKsf4YGct_OpL1jaJqYXO1TlOP2FhtuX5HfegKrZiH0q17JdJkbW7hV2WQoYMdYpb4-VtfP9TGhTnmbL_mS_b4K611cownwZoVrg42CFsUq9-yHniWb_Av4UVnqXWnbVNlist3fR25tcwhQNfbSjPJLsZ3qr_1sYzsSUhrhZZUAyIIHbPIxr_zz0XlRkxpCBhamzXXN_5N2qwhabjvTbWJDQcHf2f8b8X6TLX3yNBfxDxO3EMe1ul--uHnAK8vH_XbH2q6lj1qGugP2gCsqeuRRWsR_2H5fR9HbsKd1_gv5las_6l8Gn0BvzTlhEDIIeWjgDYLXs2D4DYD2oRbVTGlSv1tFKwf6spwKfOkFauHMrfEWHeSEJRr39hQE5dh_7141KZ8gCcmmLlTuCClMT6yLMCN6Tr8aIOrp_3s00Qs_AF17TtGDokBZvKqtIX8UOj8ohpPG15pEnXyygPbYNaqA9muapnhkyWgOI0XsRtYhAQ_KoXm1DeZIsIFeqZY-nGW66YVWkX90-GMFDg2Hh36jnLhfFQOJvSaj40R_buc5qcJdPvCNo_-nK9RXEFl47vToYalbuR1WzrK7HMssM4Z0993FzLAZKrED4eTwffqPH3ph9gz_2-lZrBsl2MjVe0vwjOY8l8JeFrLbw5B5ARWXZxExJKkjdbcydfS6XeUPIKHjV5CN40znRQ_LY9uXV8jGT9FVKR0DnlXJZewoMxvHpY1Mm7yPltRTvMvtUbg1JIaDLVkYmM0uGnFUozSNyABKglldS13ZXN0LTIw1go.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4pMIxZB0jyFxJQA7nYk11-FuS3sRq-LnPXU5kkXKYwk7DMIfSkNMs0LY&s=10",
+    "category": "sports"
+  },
+  {
+    "id": 8,
+    "name": "Tsports (Alternative)",
+    "url": "https://crichd-live.top/live/tsports/tsfile.php?url=https://live-cdn.tsports.com/live-01/master_360.m3u8",
+    "logo": "https://i.postimg.cc/GpjL1fCZ/20241005-165038.png",
+    "category": "sports"
+  },
+  {
+    "id": 9,
+    "name": "Toffee",
+    "url": "https://stream.imotv.online/toffe/live.php?id=9864cbf691c0&e=.m3u8",
+    "logo": "https://i.postimg.cc/bvt1tJyj/20241008-193409.jpg",
+    "category": "sports"
+  },
+  {
+    "id": 10,
+    "name": "Sony Live",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+    "logo": "https://image.roku.com/developer_channels/prod/dc316274271e75b874f404d085e8c19fd0e44559fcd3a82c85bad51fed6434cc.png",
+    "category": "sports"
+  },
+  {
+    "id": 11,
+    "name": "SKY Sports Cricket",
+    "url": "http://1.1usd.tv:34000/ch235/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdO1g3jYg-zRf8aBHKZw6i5VNFWcHifBQ4knMRiqNvrXR",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdWFvmgVxUvsgtkDTk53gn8AymliV4aPPntvMys4Ol9DHu0SsK2nK6l7M&s=10",
+    "category": "sports"
+  },
+  {
+    "id": 12,
+    "name": "A Sports",
+    "url": "http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8",
+    "logo": "https://yt3.googleusercontent.com/Ve4nWezHoaSvbvgaIoLVq1jsQOjx5ogIA_iFhL8fvNHyXLqFFcqi9rqvOVbHko_zsJ2oFVAkrg=s900-c-k-c0x00ffffff-no-rj",
+    "category": "sports"
+  },
+  {
+    "id": 13,
+    "name": "Euro Sports 1 HD",
+    "url": "http://iptv-hls.idc.md:8200/hls/260/live1.m3u8",
+    "logo": "https://i.postimg.cc/7L4Hdkp3/20241014-103856.png",
+    "category": "sports"
+  },
+  {
+    "id": 14,
+    "name": "PakVEng",
+    "url": "https://live-cdn.tsports.com/live-02/index.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1729028215:KeyName=tsports-ed25519-01:Signature=PP0FCly5_wrqdEcBYuDL-ktKtLIQQrt9mcoeXM3SMmHyqKKE4Tm1C-rIXFxEPVTnA7-DcadjtzF0ImAHsj6tCg",
+    "logo": "https://playerzpot.com/blog/wp-content/uploads/2019/06/Untitled-1-1080x628.png",
+    "category": "sports"
+  },
+  {
+    "id": 15,
+    "name": "Euro Sports 2",
+    "url": "http://45.90.106.98/eurosport2/index.m3u8",
+    "logo": "",
+    "category": "sports"
+  },
+  {
+    "id": 16,
+    "name": "Digisport 3",
+    "url": "http://45.90.106.98/digisport3/index.m3u8",
+    "logo": "",
+    "category": "sports"
+  },
+  {
+    "id": 17,
+    "name": "Digisport 2",
+    "url": "http://45.90.106.98/digisport2/index.m3u8",
+    "logo": "",
+    "category": "sports"
+  },
+  {
+    "id": 18,
+    "name": "Digisport 1",
+    "url": "http://45.90.106.98/digisport1/index.m3u8",
+    "logo": "",
+    "category": "sports"
+  },
+  {
+    "id": 19,
+    "name": "ESPN 2 HD",
+    "url": "http://45.169.39.162:8000/play/a0l4/index.m3u8",
+    "logo": "",
+    "category": "sports"
+  },
+  {
+    "id": 20,
+    "name": "ESPN 3 HD",
+    "url": "http://45.169.39.162:8000/play/00033/index.m3u8",
+    "logo": "",
+    "category": "sports"
+  },
+  {
+    "id": 21,
+    "name": "ESPN 4 HD",
+    "url": "http://45.169.39.162:8000/play/a02s/index.m3u8",
+    "logo": "",
+    "category": "sports"
+  },
+  {
+    "id": 22,
+    "name": "ESPN 5 HD",
+    "url": "http://45.169.39.162:8000/play/a04b/index.m3u8",
+    "logo": "",
+    "category": "sports"
+  },
+  {
+    "id": 23,
+    "name": "Fox Sport 3",
+    "url": "http://38.180.133.31:8000/play/a0ne/index.m3u8",
+    "logo": "",
+    "category": "sports"
+  },
+  {
+    "id": 24,
+    "name": "Golf Channel",
+    "url": "http://38.180.133.31:8000/play/a0kp/index.m3u8",
+    "logo": "",
+    "category": "sports"
+  },
+  {
+    "id": 25,
+    "name": "Fox Sports 1 HD",
+    "url": "http://38.180.133.31:8000/play/a0vx/index.m3u8",
+    "logo": "",
+    "category": "sports"
+  }
+]

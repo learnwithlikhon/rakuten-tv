@@ -1,0 +1,44 @@
+[x-cloak] { display: none !important; }
+
+@keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0px); }
+}
+
+.float-animation {
+    animation: float 3s ease-in-out infinite;
+}
+
+.player-wrapper {
+    aspect-ratio: 16 / 9;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+@media (max-width: 640px) {
+    .player-wrapper {
+        aspect-ratio: 16 / 9;
+        width: 100%;
+    }
+}
+
+.minimized {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 300px;
+    height: 169px;
+    z-index: 1000;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+/* Fixing footer position */
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
